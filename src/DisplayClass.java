@@ -8,6 +8,8 @@ public class DisplayClass {
         System.out.println("Wciśnij 1. aby wyświetlić swoją listę zadań.");
         System.out.println("Wciśnij 2. aby dodać nowe zadanie.");
         System.out.println("Wciśnij 3. aby usunąć zadanie które już wykonałes.");
+        System.out.println("Wciśnij 4. aby zapisać zamiany w liście.");
+        System.out.println("Wciśnij 5. aby zakończyć prace prgramu.");
     }
 
     public static void displayTasks(String[] table) {
